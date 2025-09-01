@@ -18,6 +18,6 @@ public class MethodOverrid {
         b.smile();
         b.smile();
 
-        //here same method same n parameters same but o/p from subclass
+        //here same method same n parameters same but object for subclass
     }
 }
