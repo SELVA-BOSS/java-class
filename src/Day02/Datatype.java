@@ -6,7 +6,7 @@ public class Datatype {
         int age = 32;
         float height = 5.11f;
         double weight = 92.50;
-        long salary = 10000;
+        long doublesalary = 10000;
         char grade ='b';
         boolean isselvagood = true;
         String name = "selva";
@@ -15,7 +15,7 @@ public class Datatype {
         System.out.println ("Age: " + age);
         System.out.println ("Height: " + height);
         System.out.println ("Weight: " + weight);
-        System.out.println ("Salary: " + salary);
+        System.out.println ("Salary: " + doublesalary);
         System.out.println ("Grade: " + grade);
 
 
